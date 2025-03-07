@@ -3,8 +3,8 @@ package PruebasEgit;
 public class PruebasEgit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Pruebas EGit");
+		System.out.println("Primer Cambio");
 	}
 
 }
